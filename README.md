@@ -4,7 +4,7 @@
 
 <h3>ABOUT ME</h3>
 
-My name is Jeffrey and I am passionate about learning new topics and continuously expanding my knowledge across various domains. I am passionate about building software projects that address real-world challenges, combining creativity and technical expertise to develop meaningful solutions. Excited to explore the software industry, I am eager to contribute, grow, and discover innovative ways to make an impact.
+My name is Jeffrey, a 3rd-year student in software engineering at McGill University, and I am passionate about web development and automation. I really enjoy building software projects that address real-world challenges, combining creativity and technical expertise to develop meaningful solutions. Excited to explore the software industry, I am eager to contribute, grow, and discover innovative ways to make an impact.
 
 <h3>TECHNICAL SKILLS</h3>
 
