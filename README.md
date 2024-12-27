@@ -10,8 +10,8 @@ My name is Jeffrey, a 3rd-year student in software engineering at McGill Univers
 
 **Programming Languages**: *Python, Java, Typescript, C, C++, HTML/CSS, JavaScript, FXML, VHDL/FPGAs, OCaml*
 
-**Tools and Frameworks**: *.NET, PyQT, NumPy, Docker, PostgreSQL, Cucumber, NodeJS, JUnit, Gradle, JavaFX, JUnit,
-JWT, Linux*
+**Tools and Frameworks**: *.NET, PyQT, NumPy, Docker, PostgreSQL, Cucumber, NodeJS, Express, JUnit, Gradle, JavaFX,
+JUnit, JWT, Linux, React, Redux, PyTest*
 
 <h3>EDUCATION</h3>
 
