@@ -9,6 +9,7 @@ My name is Jeffrey and I am passionate about learning new topics and continuousl
 <h3>TECHNICAL SKILLS</h3>
 
 **Programming Languages**: *Python, Java, Typescript, C, C++, HTML/CSS, JavaScript, FXML, VHDL/FPGAs, OCaml*
+
 **Tools and Frameworks**: *.NET, PyQT, NumPy, Docker, PostgreSQL, Cucumber, NodeJS, JUnit, Gradle, JavaFX, JUnit,
 JWT, Linux*
 
@@ -16,7 +17,7 @@ JWT, Linux*
 
 **McGill University**
 
-*Bachelor of Engineering in Software Engineering with co-op;*
+*Bachelor of Engineering in Software Engineering with co-op; CGPA: 3.41/4.0*
 
 **Courses**: Intro to Machine Learning, Intro to Software Engineering, Algorithm Design, Algorithms Data Structures, Software
 Requirements Engineering, Model-Based Programming, Computer Organization, Functional Programming
@@ -57,4 +58,12 @@ improving time complexity and ensuring integration with existing codebase.
 
 
 <h3>MY INFO</h3>
+
+**Email**: nahas.jeffrey@gmail.com
+
+**LinkedIn**: https://www.linkedin.com/in/jeffreynahas/
+
+**Phone Number**: +1 (514) 604-6590
+
+
 
