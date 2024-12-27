@@ -4,7 +4,7 @@
 
 <h3>ABOUT ME</h3>
 
-I'm a versatile developer, with experience in building web platforms.<br>I like accessibility, performance and robust code. In addition, I also like to help and communicate as much as I can. I usually answer questions or solve some issues on GitHub, Stack Overflow or on tech communities because that not only helps others, but also helps me.
+My name is Jeffrey and I am passionate about learning new topics and continuously expanding my knowledge across various domains. I am passionate about building software projects that address real-world challenges, combining creativity and technical expertise to develop meaningful solutions. Excited to explore the software industry, I am eager to contribute, grow, and discover innovative ways to make an impact.
 
 <h3>TECHNICAL SKILLS</h3>
 Speaking Languages: French (Fluent), English (Fluent), Arabic (Fluent)
