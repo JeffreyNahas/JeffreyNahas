@@ -8,13 +8,14 @@ My name is Jeffrey and I am passionate about learning new topics and continuousl
 
 <h3>TECHNICAL SKILLS</h3>
 
-Programming Languages: Python, Java, Typescript, C, C++, HTML/CSS, JavaScript, FXML, VHDL/FPGAs, OCaml
-Tools and Frameworks:.NET, PyQT, NumPy, Docker, PostgreSQL, Cucumber, NodeJS, JUnit, Gradle, JavaFX, JUnit,
+**Programming Languages**: Python, Java, Typescript, C, C++, HTML/CSS, JavaScript, FXML, VHDL/FPGAs, OCaml
+**Tools and Frameworks**: .NET, PyQT, NumPy, Docker, PostgreSQL, Cucumber, NodeJS, JUnit, Gradle, JavaFX, JUnit,
 JWT, Linux
 
 <h3>EDUCATION</h3>
 
-McGill University 
+**McGill University**
+
 Bachelor of Engineering in Software Engineering with co-op;
 
 Courses: Intro to Machine Learning, Intro to Software Engineering, Algorithm Design, Algorithms Data Structures, Software
