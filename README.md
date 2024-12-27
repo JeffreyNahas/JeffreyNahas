@@ -34,6 +34,8 @@ by analyzing similar system implementations and applying pattern-matching techni
 Pandas and Jira REST API, initially for B767 team, later scaled to all Boeing and Airbus projects teams.
 • Developed a navigation performance calculation feature for the Control Display Unit (MCDU) in C++, with unit tests
 and edge case validation automated through Azure DevOps Pipelines.
+
+
 CAE May 2023 – Sep. 2023
 Software Engineer Intern; Montreal, Canada
 • Built a data pipeline to process XML and CSV files from the A220 simulator database, using SQLite for temporary data
