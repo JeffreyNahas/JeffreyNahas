@@ -56,6 +56,15 @@ storage, pandas, lxml, and adapted file contents to meet system requirements. Te
 • Migrated 70% of Airbus 220 simulator code for avionic components from Perlscript/Fortran to C++ and C#/.NET,
 improving time complexity and ensuring integration with existing codebase.
 
+**McGill Robotics Team** -- Montreal, Canada || Sep.2022 - May 2023
+
+*Software Developer* 
+
+• Enhanced the Mars Rover’s arm software on an Ubuntu Linux platform using C and C++, achieving a 30% increase in
+control precision and a 25% enhancement in the kinematic chain’s generalizability, enabling more accurate movements.
+• Developed C++ modules for improved tracking camera data collection and deployed SLAM/ICP algorithms for precise
+3D mapping on Linux, significantly boosting the rover’s navigational accuracy and environmental mapping efficiency
+
 
 <h3>MY INFO</h3>
 
