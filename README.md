@@ -4,14 +4,18 @@
 
 <h3>ABOUT ME</h3>
 
-My name is Jeffrey, a 3rd-year student in software engineering at McGill University, and I am passionate about web development and automation. I really enjoy building software projects that address real-world challenges, combining creativity and technical expertise to develop meaningful solutions. Excited to explore the software industry, I am eager to contribute, grow, and discover innovative ways to make an impact.
+My name is Jeffrey, a 4th-year student in software engineering at McGill University, and I am passionate about AI, web development, and automation. I really enjoy building software projects that address real-world challenges, combining creativity and technical expertise to develop meaningful solutions. Excited to explore the software industry, I am eager to contribute, grow, and discover innovative ways to make an impact.
 
 <h3>TECHNICAL SKILLS</h3>
 
-**Programming Languages**: *Python, Java, Typescript, C, C++, HTML/CSS, JavaScript, FXML, VHDL/FPGAs, OCaml*
+**Programming Languages**: Python, Java, JavaScript, TypeScript, C, C++, HTML/CSS
 
-**Tools and Frameworks**: *.NET, PyQT, NumPy, Docker, PostgreSQL, Cucumber, NodeJS, Express, JUnit, Gradle, JavaFX,
-JUnit, JWT, Linux, React, Redux, PyTest*
+**Technologies/Frameworks**: Node.js, React.js, Next.js, Express.js, PostgreSQL, MongoDB, NumPy, Fast API, Pandas, JWT, Cucumber, JUnit, Gradle, JavaFX
+
+**Developer Tools**: Git/GitHub Actions, JIRA, VS Code, Cursor, Postman, Linux
+
+**Cloud & Infrastructure**: Docker, AWS (Amplify, S3, EC2, SageMaker)
+
 
 <h3>EDUCATION</h3>
 
@@ -25,6 +29,19 @@ Requirements Engineering, Model-Based Programming, Computer Organization, Functi
 **Expected Graduation**: May 2026
 
 <h3>EXPERIENCE</h3>
+
+**PwC** -- Montreal, Canada || May 2025 – Aug. 2025
+
+*Cloud Software Developer Intern*
+
+• Developed a full-stack application using React and Node.js to monitor and visualize real-time logs from 250+ integration
+workflows across multiple enterprise systems, reducing incident diagnosis time for developers by 85%.
+
+• Built a conversational AI agent using GPT-4o Mini and a custom MCP server, leveraging function calling to translate
+natural language into structured JSON to enable the autonomous execution of multi-step ERP workflows.
+
+• Designed and deployed 10+ integrations using JavaScript and REST/SOAP APIs to automate data synchronization and
+transformation between enterprise platforms, improving processing throughput by 3×.
 
 **CAE** -- Montreal, Canada || May 2024 – Sep. 2024
 
