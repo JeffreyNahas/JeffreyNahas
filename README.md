@@ -21,12 +21,12 @@ My name is Jeffrey, a 4th-year student in software engineering at McGill Univers
 
 **McGill University**
 
-*Bachelor of Engineering in Software Engineering with co-op; CGPA: 3.41/4.0*
+*Bachelor of Engineering in Software Engineering with co-op*
 
-**Courses**: Intro to Machine Learning, Intro to Software Engineering, Algorithm Design, Algorithms Data Structures, Software
-Requirements Engineering, Model-Based Programming, Computer Organization, Functional Programming
+**Courses**: Applied Machine Learning, Algorithms & Data Structures, Distributed Software Development, Operating Systems,
+Database Management, Computer Organization, Web App Development, Software Requirements Engineering
 
-**Expected Graduation**: May 2026
+**Expected Graduation**: December 2026
 
 <h3>EXPERIENCE</h3>
 
