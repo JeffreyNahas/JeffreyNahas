@@ -4,7 +4,7 @@
 
 <h3>ABOUT ME</h3>
 
-My name is Jeffrey, a software engineering student at McGill University, and I am passionate about AI, web development, and automation. I enjoy building software that solves real-world problems — most recently multi-agent AI systems and RAG pipelines that put large language models to work in production. I like combining technical depth with creativity to ship solutions that make a measurable impact, and I'm always looking for the next hard problem to build my way through.
+My name is Jeffrey, a software engineering student at McGill University, and I am passionate about AI, web development, and automation. I enjoy building software that solves real-world problems. Most recently building multi-agent AI systems and RAG pipelines that put large language models to work in production. I like combining technical depth with creativity to ship solutions that make a measurable impact, and I'm always looking for the next hard problem to build my way through.
 
 <h3>TECHNICAL SKILLS</h3>
 
@@ -91,6 +91,18 @@ My name is Jeffrey, a software engineering student at McGill University, and I a
 • Developed a full-stack AI platform for automated invoicing, scheduling, and expense tracking, with a Gumloop/ElevenLabs voice agent for complex workflows, winning "Best AI Project using Gumloop API" at McHacks 13.
 
 • Built a secure RESTful architecture using FastAPI and Auth0 with a React frontend and MongoDB persistence, enabling real-time data queries and cloud deployment via AWS EC2 and Amplify.
+
+**Social Point** -- TypeScript, React, Node.js, PostgreSQL, Docker 
+
+- Built and deployed a full-stack platform for campus event registration and discovery, with a TypeScript/Node.js REST API, React frontend, and PostgreSQL persistence.
+
+- Containerized the application with Docker and deployed it for public use.
+
+**Game Shop** -- Java, Spring Boot, Vue.js, PostgreSQL
+
+- Built an e-commerce web application with a Spring Boot backend, Vue.js frontend, and PostgreSQL database, exposing functionality through REST APIs and a service layer.
+
+- Applied test-driven development with 250+ unit and integration tests at 92% coverage.
 
 <h3>MY INFO</h3>
 
