@@ -94,15 +94,15 @@ My name is Jeffrey, a software engineering student at McGill University, and I a
 
 **Social Point** -- TypeScript, React, Node.js, PostgreSQL, Docker 
 
-- Built and deployed a full-stack platform for campus event registration and discovery, with a TypeScript/Node.js REST API, React frontend, and PostgreSQL persistence.
+• Built and deployed a full-stack platform for campus event registration and discovery, with a TypeScript/Node.js REST API, React frontend, and PostgreSQL persistence.
 
-- Containerized the application with Docker and deployed it for public use.
+• Containerized the application with Docker and deployed it for public use.
 
 **Game Shop** -- Java, Spring Boot, Vue.js, PostgreSQL
 
-- Built an e-commerce web application with a Spring Boot backend, Vue.js frontend, and PostgreSQL database, exposing functionality through REST APIs and a service layer.
+• Built an e-commerce web application with a Spring Boot backend, Vue.js frontend, and PostgreSQL database, exposing functionality through REST APIs and a service layer.
 
-- Applied test-driven development with 250+ unit and integration tests at 92% coverage.
+• Applied test-driven development with 250+ unit and integration tests at 92% coverage.
 
 <h3>MY INFO</h3>
 
