@@ -4,18 +4,19 @@
 
 <h3>ABOUT ME</h3>
 
-My name is Jeffrey, a 4th-year student in software engineering at McGill University, and I am passionate about AI, web development, and automation. I really enjoy building software projects that address real-world challenges, combining creativity and technical expertise to develop meaningful solutions. Excited to explore the software industry, I am eager to contribute, grow, and discover innovative ways to make an impact.
+My name is Jeffrey, a software engineering student at McGill University, and I am passionate about AI, web development, and automation. I enjoy building software that solves real-world problems — most recently multi-agent AI systems and RAG pipelines that put large language models to work in production. I like combining technical depth with creativity to ship solutions that make a measurable impact, and I'm always looking for the next hard problem to build my way through.
 
 <h3>TECHNICAL SKILLS</h3>
 
 **Programming Languages**: Python, Java, JavaScript, TypeScript, C, C++, HTML/CSS
 
-**Technologies/Frameworks**: Node.js, React.js, Next.js, Express.js, PostgreSQL, MongoDB, NumPy, Fast API, Pandas, JWT, Cucumber, JUnit, Gradle, JavaFX
+**Technologies/Frameworks**: React.js, Next.js, Node.js, Express.js, FastAPI, PostgreSQL, SQL, MongoDB, Pandas, NumPy
 
-**Developer Tools**: Git/GitHub Actions, JIRA, VS Code, Cursor, Postman, Linux
+**AI/ML**: RAG, LLM agents, Google ADK, LangGraph, LangChain, Vector Databases/Embeddings, MCP, ADK Eval Harness
 
-**Cloud & Infrastructure**: Docker, AWS (Amplify, S3, EC2, SageMaker)
+**Developer Tools**: Azure DevOps, Git/GitHub Actions, JIRA, VS Code, Cursor, Postman, Linux, Gemini CLI, Claude Code
 
+**Cloud & Infrastructure**: GCP (Vertex AI, Vector Search, AI Studio, Agent Engine, GCS, Cloud Run), AWS (Amplify, S3, EC2, SageMaker), Azure DevOps/Repos, Docker, Kubernetes
 
 <h3>EDUCATION</h3>
 
@@ -23,66 +24,73 @@ My name is Jeffrey, a 4th-year student in software engineering at McGill Univers
 
 *Bachelor of Engineering in Software Engineering with co-op*
 
-**Courses**: Applied Machine Learning, Algorithms & Data Structures, Distributed Software Development, Operating Systems,
-Database Management, Computer Organization, Web App Development, Software Requirements Engineering
+**Courses**: Applied Machine Learning, Algorithms & Data Structures, Distributed Software Development, Operating Systems, Database Management, Computer Organization, Web App Development, Computer Vision
 
-**Expected Graduation**: December 2026
+**Expected Graduation**: April 2027
 
 <h3>EXPERIENCE</h3>
+
+**CN** -- Montreal, Canada || May 2026 – Present
+
+*Applied AI Engineer Intern*
+
+• Led development of a multi-agent "digital workforce" using Google's Agent Development Kit (ADK) and Python with graph-based orchestration to autonomously run the microservice development lifecycle, cutting delivery time from ~2 weeks to ~2 hours.
+
+• Engineered a custom RAG pipeline over 7,000+ on-prem Confluence documents with metadata-aware extraction, section-based chunking, and hybrid semantic + keyword retrieval, grounding agent outputs in verified company standards.
+
+• Built self-healing recovery loops across Developer, human-in-the-loop Designer, and QA agents to enforce CN coding standards, routing each task to Claude Opus or Haiku based on complexity to keep per-microservice cost to ~$10 (1–2M tokens).
+
+• Built an automated evaluation framework on ADK's eval harness with golden-baseline datasets for subagents and workflows, scoring tool-trajectory and semantic response accuracy via LLM-as-a-judge to catch regressions.
+
+• Deployed the system to Vertex AI Agent Engine as a serverless auto-scaling endpoint with custom MCP servers for the tools, integrated into CN's Azure DevOps CI/CD pipelines (static analysis, Docker, Kubernetes).
 
 **PwC** -- Montreal, Canada || May 2025 – Aug. 2025
 
 *Cloud Software Developer Intern*
 
-• Developed a full-stack application using React and Node.js to monitor and visualize real-time logs from 250+ integration
-workflows across multiple enterprise systems, reducing incident diagnosis time for developers by 85%.
+• Developed a full-stack application using JavaScript, React, and Node.js to monitor and visualize real-time logs from 250+ integration workflows across multiple enterprise systems, cutting incident diagnosis time by 80%.
 
-• Built a conversational AI agent using GPT-4o Mini and a custom MCP server, leveraging function calling to translate
-natural language into structured JSON to enable the autonomous execution of multi-step ERP workflows.
+• Built a conversational AI agent using GPT-4o Mini and a custom MCP server to query live integration workflows between enterprise systems in natural language, pinpointing failures faster.
 
-• Designed and deployed 10+ integrations using JavaScript and REST/SOAP APIs to automate data synchronization and
-transformation between enterprise platforms, improving processing throughput by 3×.
+• Designed and deployed 14 integration workflows using JavaScript and REST/SOAP APIs to automate data synchronization and transformation between enterprise platforms, improving processing throughput by 3×.
 
 **CAE** -- Montreal, Canada || May 2024 – Sep. 2024
 
-*Returning Software Engineer Intern;*
+*Software Engineer Intern*
 
-• Developed a Python algorithm to decode large binary parameter configuration files for the Boeing 767 (B767) simulator
-by analyzing similar system implementations and applying pattern-matching techniques to extract avionics parameters.
+• Engineered a C++ decoder to parse complex binary configuration files, implementing custom byte-level parsing logic and regex pattern matching to extract readable avionics parameters from previously inaccessible data.
 
-• Integrated the algorithm with NumPy and a PyQt-based interface, to organize data in tables and facilitate analysis.
-
-• Deployed the program in CAE’s software production line, and presented it to 100+ developers.
-
-• Created a tool to automate the transfer of reported simulator bugs from client platform to Jira Cloud using Python,
-Pandas and Jira REST API, initially for B767 team, later scaled to all Boeing and Airbus projects teams.
-
-• Developed a navigation performance calculation feature for the Control Display Unit (MCDU) in C++, with unit tests
-and edge case validation automated through Azure DevOps Pipelines.
-
+• Built a Python data pipeline using Pandas and the Jira API to ingest, transform, and normalize client bug reports for Jira integration, scaling from the B767 team to all Boeing and Airbus projects and reducing reporting time by 98%.
 
 **CAE** -- Montreal, Canada || May 2023 – Sep. 2023
 
-*Software Engineer Intern;*
+*Software Engineer Intern*
 
-• Built a data pipeline to process XML and CSV files from the A220 simulator database, using SQLite for temporary data
-storage, pandas, lxml, and adapted file contents to meet system requirements. Tested functionality with pytest.
+• Led migration of A220 flight simulator avionics code from C to C++, modernizing 70% of legacy systems for new aircraft features.
 
-• Tested and Resolved B767 simulator bugs by understanding system architecture and logic and optimizing C++ code.
+**McGill Robotics Team** -- Montreal, Canada || Sep. 2022 – May 2023
 
-• Migrated 70% of Airbus 220 simulator code for avionic components from Perlscript/Fortran to C++ and C#/.NET,
-improving time complexity and ensuring integration with existing codebase.
+*Software Developer*
 
-**McGill Robotics Team** -- Montreal, Canada || Sep.2022 - May 2023
+• Enhanced the Mars Rover's arm software on an Ubuntu Linux platform using C and C++, achieving a 30% increase in control precision and a 25% improvement in the kinematic chain's generalizability for more accurate movements.
 
-*Software Developer* 
+• Developed C++ modules for tracking-camera data collection and deployed SLAM/ICP algorithms for precise 3D mapping on Linux, boosting the rover's navigational accuracy and environmental mapping efficiency.
 
-• Enhanced the Mars Rover’s arm software on an Ubuntu Linux platform using C and C++, achieving a 30% increase in
-control precision and a 25% enhancement in the kinematic chain’s generalizability, enabling more accurate movements.
+<h3>LEADERSHIP EXPERIENCE</h3>
 
-• Developed C++ modules for improved tracking camera data collection and deployed SLAM/ICP algorithms for precise
-3D mapping on Linux, significantly boosting the rover’s navigational accuracy and environmental mapping efficiency
+**961 McGill Community** -- Founder and President || Jan. 2023 – Present
 
+• Managed a 36-member team to host networking events for 500+ attendees, including 100+ professionals from various fields (Tech, Consulting, Finance, Medicine), and executed a charity campaign that raised $7,000 for local NGOs.
+
+• Directed the development of the club website and digital strategy, driving a 67% increase in member engagement.
+
+<h3>PROJECTS</h3>
+
+**AIly** (2026 McGill Hackathon Prize Winner) -- Python, React, FastAPI, MongoDB, AWS
+
+• Developed a full-stack AI platform for automated invoicing, scheduling, and expense tracking, with a Gumloop/ElevenLabs voice agent for complex workflows, winning "Best AI Project using Gumloop API" at McHacks 13.
+
+• Built a secure RESTful architecture using FastAPI and Auth0 with a React frontend and MongoDB persistence, enabling real-time data queries and cloud deployment via AWS EC2 and Amplify.
 
 <h3>MY INFO</h3>
 
@@ -90,7 +98,6 @@ control precision and a 25% enhancement in the kinematic chain’s generalizabil
 
 **LinkedIn**: https://www.linkedin.com/in/jeffreynahas/
 
+**GitHub**: https://github.com/JeffreyNahas
+
 **Phone Number**: +1 (514) 604-6590
-
-
-
